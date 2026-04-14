@@ -133,9 +133,6 @@ export default function LoginPage() {
                     </Button>
                   </form>
                   <div className="mt-4 p-3 bg-secondary/50 rounded-md">
-                    <p className="text-xs text-muted-foreground">
-                      <strong>Admin access:</strong> admin@nordic.com / admin123
-                    </p>
                   </div>
                 </TabsContent>
 
